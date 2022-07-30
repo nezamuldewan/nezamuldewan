@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @nezamuldewan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Welcome to my GitHub profile. I am a MERN Stack Developer and Web Designer . Knock me: m.facebook.com/NezamulD
 
-<!---
-nezamuldewan/nezamuldewan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills:  HTML / CSS
+
+🔭 I’m currently working on Programmer Team
+
+🌱 I’m currently learning JS, Python, React
+
+👨‍💻 All of my projects are available at https://github.com/nezamuldewan
+
+💬 Ask me about HTML5, CSS3 
+📫 How to reach me nezamuldewan@gmail.com
